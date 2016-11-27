@@ -1,0 +1,21 @@
+html, body, a, ul, li {
+	margin: 0;
+	padding: 0;
+}
+a {
+	background-color: red;
+	text-decoration: none;
+}
+
+
+li {
+	background-color: blue;
+	display: inline-block;
+	width: 100px;
+	height: 50px;
+	list-style-type: none;
+	border: 3px solid #11D51A;
+	/*padding: 10px;
+	margin: 10px;*/
+	color: #fff;
+}

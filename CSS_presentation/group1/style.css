@@ -1,0 +1,15 @@
+a, #strange {
+	background-color: red;
+}
+.demo, #strange {
+	
+}
+table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	/*border-top: 1px solid #ccc;*/
+
+}
+td {
+	border: 1px solid #000;
+}

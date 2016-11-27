@@ -1,0 +1,56 @@
+html, body, ul, li,
+a, img, p, div {
+	margin: 0;
+	padding: 0
+}
+body{
+	background-color: #F50D0D
+}
+li {
+	background-color: #C39191;
+	display: inline-block;
+	width: 46px;
+	height:26px;
+	padding: 5px;
+	border: 2px solid #000;
+	/*margin: 10px*/
+}
+img {
+	width: 150px
+}
+
+#bl {
+	background-color: #FBDB06
+}
+/*span {
+	background-color: #0E32E9;
+	padding: 10px;
+	padding-top: 18px
+}*/
+li a {
+	padding: ;
+}
+/*#first {
+	position: relative;
+	top: 20px
+}*/
+#wrapper {
+	position: relative;
+	height: 500px;
+	background-color: #11AFF9
+}
+div {
+	width: 44%
+}
+#first, #second {
+	position: absolute;
+
+}
+#second {
+	top: 0;
+	left: 50%;
+}
+#gallery {
+	position: absolute;
+	top: 400px
+}
